@@ -3,7 +3,7 @@
 A command-line password manager in Python that saves website credentials and copies passwords to the clipboard.
 
 ## Features
-- Save and retrieve website passwords
+- Save and retrieve websites passwords
 - Automatic clipboard copy using pyperclip
 - Menu-driven interface
 
