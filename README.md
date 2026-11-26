@@ -1,6 +1,6 @@
 # Password Manager
 
-A command-line password manager in Python that saves website credentials and copies passwords to the clipboard.
+A command-line password manager in Python that save website credentials and copies passwords to the clipboard.
 
 ## Features
 - Save and retrieve websites passwords
